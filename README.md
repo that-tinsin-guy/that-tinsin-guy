@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I don't have a ton going on, so that's all!
+
 <!--
 **that-tinsin-guy/that-tinsin-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
